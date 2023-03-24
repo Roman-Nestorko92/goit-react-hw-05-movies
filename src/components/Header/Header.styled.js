@@ -4,7 +4,6 @@ import { FaFilm } from 'react-icons/fa';
 import {
   mainGradient,
   mainHoverEfect,
-  mainTextColor,
   secondTextColor,
 } from 'utilities/variables/css';
 
