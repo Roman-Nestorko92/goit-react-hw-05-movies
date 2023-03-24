@@ -1,7 +1,7 @@
 import { useLocation, useNavigate } from 'react-router-dom';
-import Container from 'components/Container';
 import { FormSearch, InputSearch, ButtonSubmit } from './SearchBar.styled';
 import { FaSearch } from 'react-icons/fa';
+import Container from 'components/Container';
 
 function SearchBar() {
   const location = useLocation();
